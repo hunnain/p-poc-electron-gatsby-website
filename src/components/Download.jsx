@@ -1,4 +1,5 @@
 import React from "react";
+import headerLens from '../images/header-lens.png';
 
 export default function Download() {
   return (
@@ -31,7 +32,7 @@ export default function Download() {
             <div className="image-container">
               <img
                 className="img-fluid"
-                src="images/header-lens.png"
+                src={headerLens}
                 alt="alternative"
               />
             </div>

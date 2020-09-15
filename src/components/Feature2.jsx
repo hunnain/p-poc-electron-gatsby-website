@@ -1,4 +1,5 @@
 import React from "react";
+import multiClusterManagement from '../images/multi-cluster-management.svg';
 
 export default function Feature2() {
   return (
@@ -26,7 +27,7 @@ export default function Feature2() {
             <div className="col-lg-6">
               <img
                 className="img-fluid"
-                src="images/multi-cluster-management.svg"
+                src={multiClusterManagement}
                 alt="alternative"
               />
             </div>

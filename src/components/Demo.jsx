@@ -1,4 +1,5 @@
 import React from "react";
+import headerLens from '../images/header-lens.png';
 
 export default function Demo() {
   return (
@@ -23,7 +24,7 @@ export default function Demo() {
                 >
                   <img
                     className="img-fluid"
-                    src="images/header-lens.png"
+                    src={headerLens}
                     alt="alternative"
                   />
                   <span className="video-play-button">

@@ -1,4 +1,5 @@
 import React from "react";
+import workspaces from '../images/workspaces.svg';
 
 export default function Feature3() {
   return (
@@ -9,7 +10,7 @@ export default function Feature3() {
             <div className="col-lg-6">
               <img
                 className="img-fluid"
-                src="images/workspaces.svg"
+                src={workspaces}
                 alt="alternative"
               />
             </div>

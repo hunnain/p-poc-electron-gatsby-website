@@ -1,4 +1,5 @@
 import React from "react";
+import contextAwareTerminal from '../images/context-aware-terminal.svg';
 
 export default function Feature5() {
   return (
@@ -9,7 +10,7 @@ export default function Feature5() {
             <div className="col-lg-6">
               <img
                 className="img-fluid"
-                src="images/context-aware-terminal.svg"
+                src={contextAwareTerminal}
                 alt="alternative"
               />
             </div>

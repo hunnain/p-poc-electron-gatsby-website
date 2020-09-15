@@ -1,4 +1,5 @@
 import React from "react";
+import headerLens from '../images/header-lens.png';
 
 export default function Loader() {
   return (
@@ -37,7 +38,7 @@ export default function Loader() {
               <div className="image-container">
                 <img
                   className="img-fluid"
-                  src="images/header-lens.png"
+                  src={headerLens}
                   alt="alternative"
                 />
               </div>

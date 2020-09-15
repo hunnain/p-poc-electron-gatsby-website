@@ -1,4 +1,5 @@
 import React from "react";
+import betterKubernetes from '../images/better-kubernetes.svg';
 
 export default function Feature1() {
   return (
@@ -8,7 +9,7 @@ export default function Feature1() {
           <div className="col-lg-6">
             <img
               className="img-fluid"
-              src="images/better-kubernetes.svg"
+              src={betterKubernetes}
               alt="alternative"
             />
           </div>

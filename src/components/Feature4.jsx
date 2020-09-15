@@ -1,4 +1,5 @@
 import React from "react";
+import builtInPrometheusStats from '../images/built-in-prometheus-stats.svg';
 
 export default function Feature4() {
   return (
@@ -24,7 +25,7 @@ export default function Feature4() {
             <div className="col-lg-6">
               <img
                 className="img-fluid"
-                src="images/built-in-prometheus-stats.svg"
+                src={builtInPrometheusStats}
                 alt="alternative"
               />
             </div>
