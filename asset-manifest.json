@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/p-poc-electron-gatsby-website/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/p-poc-electron-gatsby-website/static/js/main.1f553e79.chunk.js",
+    "main.js.map": "/p-poc-electron-gatsby-website/static/js/main.1f553e79.chunk.js.map",
+    "runtime-main.js": "/p-poc-electron-gatsby-website/static/js/runtime-main.45818c22.js",
+    "runtime-main.js.map": "/p-poc-electron-gatsby-website/static/js/runtime-main.45818c22.js.map",
+    "static/js/2.1c6988e6.chunk.js": "/p-poc-electron-gatsby-website/static/js/2.1c6988e6.chunk.js",
+    "static/js/2.1c6988e6.chunk.js.map": "/p-poc-electron-gatsby-website/static/js/2.1c6988e6.chunk.js.map",
+    "index.html": "/p-poc-electron-gatsby-website/index.html",
+    "precache-manifest.d8520151824bdcb865d73bc78f26936b.js": "/p-poc-electron-gatsby-website/precache-manifest.d8520151824bdcb865d73bc78f26936b.js",
+    "service-worker.js": "/p-poc-electron-gatsby-website/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/p-poc-electron-gatsby-website/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1c6988e6.chunk.js.LICENSE.txt": "/p-poc-electron-gatsby-website/static/js/2.1c6988e6.chunk.js.LICENSE.txt",
+    "static/media/better-kubernetes.svg": "/p-poc-electron-gatsby-website/static/media/better-kubernetes.082eac9f.svg",
+    "static/media/built-in-prometheus-stats.svg": "/p-poc-electron-gatsby-website/static/media/built-in-prometheus-stats.484e8327.svg",
+    "static/media/context-aware-terminal.svg": "/p-poc-electron-gatsby-website/static/media/context-aware-terminal.a0037930.svg",
+    "static/media/header-lens.png": "/p-poc-electron-gatsby-website/static/media/header-lens.3764e631.png",
+    "static/media/lens-logo-icon.svg": "/p-poc-electron-gatsby-website/static/media/lens-logo-icon.fb84ee9d.svg",
+    "static/media/multi-cluster-management.svg": "/p-poc-electron-gatsby-website/static/media/multi-cluster-management.c39025de.svg",
+    "static/media/workspaces.svg": "/p-poc-electron-gatsby-website/static/media/workspaces.5ff98d8f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45818c22.js",
+    "static/js/2.1c6988e6.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1f553e79.chunk.js"
+  ]
+}
