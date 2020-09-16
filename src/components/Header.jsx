@@ -10,7 +10,7 @@ export default function Loader() {
             <div className="col-lg-12">
               <div className="text-container">
                 <h1>
-                  THE KUBERNETES IDE <br />
+                  Glasswall Desktop File Security <br />
                   FOR{" "}
                   <span id="js-rotating">
                     DEVELOPMENT, OPERATIONS, MONITORING, DEBUGGING, DEVOPS

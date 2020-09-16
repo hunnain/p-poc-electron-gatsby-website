@@ -1,12 +1,12 @@
 import React from "react";
-import lensLogo from "../images/lens-logo-icon.svg";
+import lensLogo from "../images/logo.svg";
 
 export default function Nav() {
   return (
     <nav className="navbar navbar-expand-md navbar-dark navbar-custom fixed-top">
       <a className="navbar-brand" href="index.html">
         <img src={lensLogo} alt="alternative" />
-        LENS <span> THE KUBERNETES IDE</span>
+        <span> Desktop IDE</span>
       </a>
 
       <button
