@@ -1,11 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ea6dd6af1b3ceaa08fc285edf1b699b",
+    "revision": "aa9f466d5665519f98f387e047332cc1",
     "url": "/p-poc-electron-gatsby-website/index.html"
-  },
-  {
-    "revision": "17c33e247bc851aedb17",
-    "url": "/p-poc-electron-gatsby-website/static/css/main.5ecd60fb.chunk.css"
   },
   {
     "revision": "9bdafe015fdf6678940e",
@@ -16,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/p-poc-electron-gatsby-website/static/js/2.1c6988e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "17c33e247bc851aedb17",
-    "url": "/p-poc-electron-gatsby-website/static/js/main.1f553e79.chunk.js"
+    "revision": "03e8f7476a227685a694",
+    "url": "/p-poc-electron-gatsby-website/static/js/main.a02f2631.chunk.js"
   },
   {
     "revision": "194f1025e4b2d246fc6d",
@@ -40,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/p-poc-electron-gatsby-website/static/media/header-lens.3764e631.png"
   },
   {
-    "revision": "fb84ee9d3d5bb795bd6abb7275e3ac0e",
-    "url": "/p-poc-electron-gatsby-website/static/media/lens-logo-icon.fb84ee9d.svg"
+    "revision": "4d89dba8a292d974769ba2214b9d2128",
+    "url": "/p-poc-electron-gatsby-website/static/media/logo.4d89dba8.svg"
   },
   {
     "revision": "c39025dece90a630a4bc782a262bbfa4",
