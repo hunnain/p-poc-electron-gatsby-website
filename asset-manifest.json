@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/p-poc-electron-gatsby-website/static/js/main.a02f2631.chunk.js",
-    "main.js.map": "/p-poc-electron-gatsby-website/static/js/main.a02f2631.chunk.js.map",
+    "main.js": "/p-poc-electron-gatsby-website/static/js/main.9ac92f26.chunk.js",
+    "main.js.map": "/p-poc-electron-gatsby-website/static/js/main.9ac92f26.chunk.js.map",
     "runtime-main.js": "/p-poc-electron-gatsby-website/static/js/runtime-main.45818c22.js",
     "runtime-main.js.map": "/p-poc-electron-gatsby-website/static/js/runtime-main.45818c22.js.map",
     "static/js/2.1c6988e6.chunk.js": "/p-poc-electron-gatsby-website/static/js/2.1c6988e6.chunk.js",
     "static/js/2.1c6988e6.chunk.js.map": "/p-poc-electron-gatsby-website/static/js/2.1c6988e6.chunk.js.map",
     "index.html": "/p-poc-electron-gatsby-website/index.html",
-    "precache-manifest.f8738b4e89df71c9244e1c344af64aa7.js": "/p-poc-electron-gatsby-website/precache-manifest.f8738b4e89df71c9244e1c344af64aa7.js",
+    "precache-manifest.ccc95eb5c71b39a880ada4507ea24605.js": "/p-poc-electron-gatsby-website/precache-manifest.ccc95eb5c71b39a880ada4507ea24605.js",
     "service-worker.js": "/p-poc-electron-gatsby-website/service-worker.js",
     "static/js/2.1c6988e6.chunk.js.LICENSE.txt": "/p-poc-electron-gatsby-website/static/js/2.1c6988e6.chunk.js.LICENSE.txt",
     "static/media/better-kubernetes.svg": "/p-poc-electron-gatsby-website/static/media/better-kubernetes.082eac9f.svg",
     "static/media/built-in-prometheus-stats.svg": "/p-poc-electron-gatsby-website/static/media/built-in-prometheus-stats.484e8327.svg",
     "static/media/context-aware-terminal.svg": "/p-poc-electron-gatsby-website/static/media/context-aware-terminal.a0037930.svg",
-    "static/media/header-lens.png": "/p-poc-electron-gatsby-website/static/media/header-lens.3764e631.png",
+    "static/media/header-lens.png": "/p-poc-electron-gatsby-website/static/media/header-lens.0df1ee51.png",
     "static/media/logo.svg": "/p-poc-electron-gatsby-website/static/media/logo.4d89dba8.svg",
     "static/media/multi-cluster-management.svg": "/p-poc-electron-gatsby-website/static/media/multi-cluster-management.c39025de.svg",
     "static/media/workspaces.svg": "/p-poc-electron-gatsby-website/static/media/workspaces.5ff98d8f.svg"
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.45818c22.js",
     "static/js/2.1c6988e6.chunk.js",
-    "static/js/main.a02f2631.chunk.js"
+    "static/js/main.9ac92f26.chunk.js"
   ]
 }

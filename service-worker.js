@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/p-poc-electron-gatsby-website/precache-manifest.f8738b4e89df71c9244e1c344af64aa7.js"
+  "/p-poc-electron-gatsby-website/precache-manifest.ccc95eb5c71b39a880ada4507ea24605.js"
 );
 
 self.addEventListener('message', (event) => {
