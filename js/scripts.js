@@ -206,10 +206,11 @@
 	});
 
   $.ajax({
-    url: 'https://api.github.com/repos/lensapp/lens',
+    url: 'https://api.github.com/repos/k8-proxy/p-poc-electron-gatsby-website',
     success: function( data ){
+      console.log("Data===>", data.forks)
       if(data.stargazers_count && data.forks){
-        $( "#happy-users-count" ).attr( 'data-count', Math.round(data.stargazers_count * 5.98) );
+        $( "#happy-users-count" ).attr( 'data-count', "5" );
         $( "#stargazers-count" ).attr( 'data-count', data.stargazers_count );
         $( "#forks-count" ).attr( 'data-count', data.forks );
         updateCounters();
